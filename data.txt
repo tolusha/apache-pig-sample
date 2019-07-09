@@ -1,0 +1,8 @@
+1 a yellow
+2 b green
+3 c white
+4 d red
+5 e blue
+6 f brown
+7 g black
+8 h pink
