@@ -1,0 +1,16 @@
+specVersion: 0.0.1
+name: apache-pig
+projects:
+  -
+    name: apache-pig-sample
+    source:
+      type: git
+      location: "https://github.com/dneary/apache-pig-sample"
+components:
+  -
+    alias: apache-pig-plugin
+    type: chePlugin
+    id: https://raw.githubusercontent.com/tolusha/plugins-registry/master/plugins/tolusha/apache-pig-debug/0.0.1
+  -
+    id: eclipse/che-theia/next
+    type: cheEditor
