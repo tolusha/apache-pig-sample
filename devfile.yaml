@@ -5,7 +5,7 @@ projects:
     name: apache-pig-sample
     source:
       type: git
-      location: "https://github.com/tolusha/apache-pig-sample"
+      location: "https://github.com/dneary/apache-pig-sample"
 components:
   -
     alias: apache-pig-plugin
